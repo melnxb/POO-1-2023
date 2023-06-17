@@ -1,0 +1,17 @@
+==================================================
+Instruções do Jogo:
+==================================================
+
+>>> Desvie dos círculos vermelhos e verdes! 
+Se você encostar neles, irá perder o jogo
+
+>>> Você pode se alimentar dos círculos pequenos de cor amarelo
+e azul que estão espalhados pelo chão, cada um irá aumentar sua
+pontuação em 1.
+
+>>> Consiga chegar até a saída para ganhar!
+
+==================================================
+Kauany Almeida Silva - BCC 3a
+Melyca Neres Bortoletto - BCC 3a
+==================================================
